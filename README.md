@@ -1,7 +1,7 @@
 # Ma Dream Libs
 
 MaDreamLibs for Kids is a phrasal template word game that consists of one player prompting others for a list of words to substitute for blanks in a story before reading. The concept is to help the dreams of kids come true :D
-<a href="https://madreamlibs.netlify.app/">Live Demo</a>
+#### <br><a href="https://madreamlibs.netlify.app/">Live Demo</a>
 <img src="/madlibs.jpg" alt="madlibsImg"/>
 
 ## What is Mad Libs?
